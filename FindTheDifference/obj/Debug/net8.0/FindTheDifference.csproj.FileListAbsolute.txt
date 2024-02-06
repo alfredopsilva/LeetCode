@@ -1,0 +1,15 @@
+/Users/alfredo/Code/LeetCode/FindTheDifference/obj/Debug/net8.0/FindTheDifference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredo/Code/LeetCode/FindTheDifference/obj/Debug/net8.0/FindTheDifference.AssemblyInfoInputs.cache
+/Users/alfredo/Code/LeetCode/FindTheDifference/obj/Debug/net8.0/FindTheDifference.AssemblyInfo.cs
+/Users/alfredo/Code/LeetCode/FindTheDifference/obj/Debug/net8.0/FindTheDifference.csproj.CoreCompileInputs.cache
+/Users/alfredo/Code/LeetCode/FindTheDifference/obj/Debug/net8.0/FindTheDifference.sourcelink.json
+/Users/alfredo/Code/LeetCode/FindTheDifference/bin/Debug/net8.0/FindTheDifference
+/Users/alfredo/Code/LeetCode/FindTheDifference/bin/Debug/net8.0/FindTheDifference.deps.json
+/Users/alfredo/Code/LeetCode/FindTheDifference/bin/Debug/net8.0/FindTheDifference.runtimeconfig.json
+/Users/alfredo/Code/LeetCode/FindTheDifference/bin/Debug/net8.0/FindTheDifference.dll
+/Users/alfredo/Code/LeetCode/FindTheDifference/bin/Debug/net8.0/FindTheDifference.pdb
+/Users/alfredo/Code/LeetCode/FindTheDifference/obj/Debug/net8.0/FindTheDifference.dll
+/Users/alfredo/Code/LeetCode/FindTheDifference/obj/Debug/net8.0/refint/FindTheDifference.dll
+/Users/alfredo/Code/LeetCode/FindTheDifference/obj/Debug/net8.0/FindTheDifference.pdb
+/Users/alfredo/Code/LeetCode/FindTheDifference/obj/Debug/net8.0/FindTheDifference.genruntimeconfig.cache
+/Users/alfredo/Code/LeetCode/FindTheDifference/obj/Debug/net8.0/ref/FindTheDifference.dll
